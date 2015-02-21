@@ -2,4 +2,4 @@
 print hello
 
 
-this doc has code to print hello
+this repo has code to print hello
